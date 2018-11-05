@@ -6,7 +6,7 @@
 ##1、页面跳转交互优化
 跳转页面加载圆圈优化，跳转页面如页面在加载并不会影响返回等操作（包括侧滑返回）
 
-![展示图](../1.3.4update/1.gif)
+![展示图](http://github.com/kuangzihan/yjxx1.3.4/raw/master/1.gif)
 
 <br>
 ##2、webView优化：
